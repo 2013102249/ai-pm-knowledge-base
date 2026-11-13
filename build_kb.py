@@ -8,14 +8,25 @@
 import os, re, sys, json, glob, subprocess
 
 BASE = os.path.dirname(os.path.abspath(__file__))
+VENDOR = os.path.join(BASE, '.vendor')
 sys.path.insert(0, '/tmp/pymd')
+sys.path.insert(0, VENDOR)
 try:
     import markdown
 except ImportError:
-    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'markdown', '--target', '/tmp/pymd', '-q'])
-    sys.path.insert(0, '/tmp/pymd')
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'markdown', 'beautifulsoup4',
+                           '--target', VENDOR, '-q'])
+    import importlib
+    importlib.invalidate_caches()
     import markdown
-from bs4 import BeautifulSoup
+try:
+    from bs4 import BeautifulSoup
+except ImportError:
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'beautifulsoup4',
+                           '--target', VENDOR, '-q'])
+    import importlib
+    importlib.invalidate_caches()
+    from bs4 import BeautifulSoup
 
 CH = os.path.join(BASE, 'chapters')
 AP = os.path.join(BASE, 'appendices')
@@ -150,10 +161,21 @@ def build_all():
         doc_id = f'doc-{idx}'
         if h1:
             h1['id'] = doc_id
+        num_pat = re.compile(r'^[+-]?\d[\d,]*(?:\.\d+)?\s*(?:%|\u2030|分|条|个|次|人|天|讲|处|道|元|万|亿|KB|MB|GB|ms|s|分钟|小时|岁)?$')
         for tbl in soup.find_all('table'):
+            first_tr = tbl.find('tr')
+            ncol = len(tbl.find_all('th')) if tbl.find('th') else (len(first_tr.find_all(['td', 'th'])) if first_tr else 0)
+            tbl['class'] = tbl.get('class', []) + ['cols-%d' % min(max(ncol, 1), 9)]
+            for td in tbl.find_all('td'):
+                if num_pat.match(td.get_text(' ', strip=True)):
+                    td['class'] = td.get('class', []) + ['num']
             wrap = soup.new_tag('div')
             wrap['class'] = 'table-wrap'
             tbl.wrap(wrap)
+            hint = soup.new_tag('div')
+            hint['class'] = 'table-hint'
+            hint.string = '\u2190 \u5de6\u53f3\u6ed1\u52a8\u67e5\u770b\u5b8c\u6574\u8868\u683c \u2192'
+            wrap.insert_after(hint)
         for a in soup.find_all('a', href=True):
             if a['href'].startswith('http'):
                 a['target'] = '_blank'

@@ -1,0 +1,240 @@
+{
+ "AI产品经理": [
+  {
+   "full_name": "ModelEngine-Group/app-platform",
+   "stars": 1459,
+   "desc": "AppPlatform 是一个前沿的大模型应用工程，旨在通过集成的声明式编程和低代码配置工具，简化和优化大模型的训练与推理应用的开发过程。本工程为软件工程师和产品经理提供一个强大的、可扩展的环境，以支持从概念到部署的全流程 AI 应用开发。",
+   "pushed_at": "2026-09-29T06:09:09Z",
+   "url": "https://github.com/ModelEngine-Group/app-platform",
+   "license": "MIT"
+  },
+  {
+   "full_name": "itshen/learn-ai",
+   "stars": 573,
+   "desc": "AI 产品从入门到精通 —— 面向 AI 产品经理的完整培训课程，涵盖大模型底层原理到 AI 工程化落地",
+   "pushed_at": "2026-10-23T14:57:24Z",
+   "url": "https://github.com/itshen/learn-ai",
+   "license": "AGPL-3.0"
+  },
+  {
+   "full_name": "archlizheng/AIPM-Wiki",
+   "stars": 501,
+   "desc": "🧱 AI 产品经理入门知识库:面试题库 · AI 基础 · 案例拆解 · 学习路线 | 无论是零基础转行还是持续进步,一个仓库就够了",
+   "pushed_at": "2026-11-06T03:06:35Z",
+   "url": "https://github.com/archlizheng/AIPM-Wiki",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "peterfei/ai-agent-team",
+   "stars": 452,
+   "desc": "AI Agent Team-拥有24/7专业AI开发团队：产品经理、前端开发、后端开发、测试工程师、DevOps工程师、技术负责人。一键安装，支持中英文命令，大幅提升开发效率！",
+   "pushed_at": "2026-06-29T22:49:44Z",
+   "url": "https://github.com/peterfei/ai-agent-team",
+   "license": "MIT"
+  }
+ ],
+ "AI product manager in:name,description,readme": [
+  {
+   "full_name": "sindresorhus/awesome",
+   "stars": 536088,
+   "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+   "pushed_at": "2026-09-02T02:10:47Z",
+   "url": "https://github.com/sindresorhus/awesome",
+   "license": "CC0-1.0"
+  },
+  {
+   "full_name": "public-apis/public-apis",
+   "stars": 498589,
+   "desc": "A collective list of free APIs",
+   "pushed_at": "2026-11-11T16:37:57Z",
+   "url": "https://github.com/public-apis/public-apis",
+   "license": "MIT"
+  },
+  {
+   "full_name": "nilbuild/developer-roadmap",
+   "stars": 371930,
+   "desc": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+   "pushed_at": "2026-11-12T16:24:46Z",
+   "url": "https://github.com/nilbuild/developer-roadmap",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "jwasham/coding-interview-university",
+   "stars": 364316,
+   "desc": "A complete computer science study plan to become a software engineer.",
+   "pushed_at": "2026-11-07T16:03:02Z",
+   "url": "https://github.com/jwasham/coding-interview-university",
+   "license": "CC-BY-SA-4.0"
+  },
+  {
+   "full_name": "awesome-selfhosted/awesome-selfhosted",
+   "stars": 336544,
+   "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "pushed_at": "2026-11-07T11:49:42Z",
+   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "vinta/awesome-python",
+   "stars": 334398,
+   "desc": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+   "pushed_at": "2026-11-13T05:14:16Z",
+   "url": "https://github.com/vinta/awesome-python",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "trimstray/the-book-of-secret-knowledge",
+   "stars": 258072,
+   "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+   "pushed_at": "2024-11-19T14:00:38Z",
+   "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+   "license": "MIT"
+  },
+  {
+   "full_name": "avelino/awesome-go",
+   "stars": 193613,
+   "desc": "A curated list of awesome Go frameworks, libraries and software",
+   "pushed_at": "2026-11-12T22:58:12Z",
+   "url": "https://github.com/avelino/awesome-go",
+   "license": "MIT"
+  }
+ ],
+ "PRD template product requirements document": [],
+ "AB testing experimentation platform": [],
+ "LLM cost token optimization": [],
+ "vibe coding claude code cursor": [
+  {
+   "full_name": "liyupi/ai-guide",
+   "stars": 22065,
+   "desc": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Eng",
+   "pushed_at": "2026-11-12T02:10:38Z",
+   "url": "https://github.com/liyupi/ai-guide",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "refly-ai/refly",
+   "stars": 7553,
+   "desc": "The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Fei",
+   "pushed_at": "2026-11-02T09:51:50Z",
+   "url": "https://github.com/refly-ai/refly",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "agent-of-empires/agent-of-empires",
+   "stars": 4254,
+   "desc": "Manage multiple Claude Code, OpenCode agents from either TUI or Web for easy access on mobile. Also supports Mistral Vibe, Codex CLI, Gemini CLI, Pi.dev, Copilot CLI, Factory Droid",
+   "pushed_at": "2026-11-13T06:22:45Z",
+   "url": "https://github.com/agent-of-empires/agent-of-empires",
+   "license": "MIT"
+  },
+  {
+   "full_name": "withkynam/vibecode-pro-max-kit",
+   "stars": 1171,
+   "desc": "Your AI forgets. This remembers. Spec-driven coding harness for vibecoders, product owners, CEOs and real builders — self-improving context memory, 15 agents, 33 skills working wit",
+   "pushed_at": "2026-06-21T08:31:44Z",
+   "url": "https://github.com/withkynam/vibecode-pro-max-kit",
+   "license": "MIT"
+  },
+  {
+   "full_name": "kevinpbuckley/VibeUE",
+   "stars": 832,
+   "desc": "Unreal Engine Vibe Coding tool",
+   "pushed_at": "2026-11-12T02:45:00Z",
+   "url": "https://github.com/kevinpbuckley/VibeUE",
+   "license": "MIT"
+  },
+  {
+   "full_name": "Coolver/home-assistant-vibecode-agent",
+   "stars": 655,
+   "desc": "Home Assistant MCP server agent. Enable Claude Code, Cursor, VS Code or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design da",
+   "pushed_at": "2026-10-21T23:53:58Z",
+   "url": "https://github.com/Coolver/home-assistant-vibecode-agent",
+   "license": "MIT"
+  },
+  {
+   "full_name": "botingw/rulebook-ai",
+   "stars": 614,
+   "desc": "Elevate vibe coding to vibe engineering: Get consistent Github Copilot custom instructions, Cursor, Roo Code, Cline, Windsurf, Claude Code, Gemini Cli, Codex CLI, kilo code, warp c",
+   "pushed_at": "2025-10-03T00:56:25Z",
+   "url": "https://github.com/botingw/rulebook-ai",
+   "license": "MIT"
+  },
+  {
+   "full_name": "funny-vibes/agent-vibes",
+   "stars": 363,
+   "desc": "Unified Agent Gateway — Enables Claude Code CLI and Cursor IDE to use free AI backends (Antigravity, Codex) through protocol translation",
+   "pushed_at": "2026-10-05T12:52:25Z",
+   "url": "https://github.com/funny-vibes/agent-vibes",
+   "license": "MIT"
+  }
+ ],
+ "AI safety governance regulation": [],
+ "LoRA fine tuning LLM": [
+  {
+   "full_name": "hiyouga/LlamaFactory",
+   "stars": 76023,
+   "desc": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+   "pushed_at": "2026-11-12T12:44:33Z",
+   "url": "https://github.com/hiyouga/LlamaFactory",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "huggingface/peft",
+   "stars": 21885,
+   "desc": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+   "pushed_at": "2026-11-13T02:13:31Z",
+   "url": "https://github.com/huggingface/peft",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "MakazhanAlpamys/Soup",
+   "stars": 10510,
+   "desc": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+   "pushed_at": "2026-11-12T19:48:23Z",
+   "url": "https://github.com/MakazhanAlpamys/Soup",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "oumi-ai/oumi",
+   "stars": 9431,
+   "desc": "Easily fine-tune (SFT/RL), evaluate, and deploy Qwen, Gemma, or any open agentic LLM/VLM!",
+   "pushed_at": "2026-11-12T17:36:38Z",
+   "url": "https://github.com/oumi-ai/oumi",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "predibase/lorax",
+   "stars": 3835,
+   "desc": "Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs",
+   "pushed_at": "2026-05-28T18:12:20Z",
+   "url": "https://github.com/predibase/lorax",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "stochasticai/xTuring",
+   "stars": 2680,
+   "desc": "Build, personalize and control your own LLMs. From data pre-processing to fine-tuning, xTuring provides an easy way to personalize open-source LLMs. Join our discord community: htt",
+   "pushed_at": "2026-11-05T02:52:21Z",
+   "url": "https://github.com/stochasticai/xTuring",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "ARahim3/mlx-tune",
+   "stars": 1470,
+   "desc": "Fine-tune LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, Vision, TTS, STT, Embedding, and OCR fine-tuning — natively on MLX. Unsloth-compatible API.",
+   "pushed_at": "2026-06-23T12:24:30Z",
+   "url": "https://github.com/ARahim3/mlx-tune",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "dvgodoy/FineTuningLLMs",
+   "stars": 878,
+   "desc": "Official repository of my book \"A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face\"",
+   "pushed_at": "2026-02-28T14:57:29Z",
+   "url": "https://github.com/dvgodoy/FineTuningLLMs",
+   "license": "MIT"
+  }
+ ],
+ "AI product portfolio interview": [],
+ "product analytics metrics SQL": []
+}

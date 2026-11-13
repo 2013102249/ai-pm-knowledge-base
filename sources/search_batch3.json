@@ -1,0 +1,395 @@
+{
+ "PRD in:name,description stars:>100": [
+  {
+   "full_name": "snarktank/ralph",
+   "stars": 22224,
+   "desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+   "pushed_at": "2026-02-02T01:46:21Z",
+   "url": "https://github.com/snarktank/ralph",
+   "license": "MIT"
+  },
+  {
+   "full_name": "amitshekhariitbhu/PRDownloader",
+   "stars": 3395,
+   "desc": "PRDownloader - A file downloader library for Android with pause and resume support",
+   "pushed_at": "2026-01-28T09:26:37Z",
+   "url": "https://github.com/amitshekhariitbhu/PRDownloader",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "KhazP/vibe-coding-prompt-template",
+   "stars": 3251,
+   "desc": "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs",
+   "pushed_at": "2026-10-04T17:01:18Z",
+   "url": "https://github.com/KhazP/vibe-coding-prompt-template",
+   "license": "MIT"
+  },
+  {
+   "full_name": "michaelshimeles/ralphy",
+   "stars": 2981,
+   "desc": "My Ralph Wiggum setup, an autonomous bash script that runs Claude Code, Codex, OpenCode, Cursor agent, Qwen & Droid in a loop until your PRD is complete.",
+   "pushed_at": "2026-02-05T16:28:20Z",
+   "url": "https://github.com/michaelshimeles/ralphy",
+   "license": null
+  },
+  {
+   "full_name": "mohitagw15856/pm-claude-skills",
+   "stars": 1544,
+   "desc": "1,310 professional Agent Skills for Claude, Claude Duet, ChatGPT, Gemini, Cursor & Codex: PRDs, postmortems, leases, medical bills, payroll checks, morning briefs. 21 ski",
+   "pushed_at": "2026-11-12T13:46:09Z",
+   "url": "https://github.com/mohitagw15856/pm-claude-skills",
+   "license": "MIT"
+  },
+  {
+   "full_name": "coleam00/second-brain-starter",
+   "stars": 898,
+   "desc": "Build your own AI Second Brain with Claude Code - a skill that generates a personalized PRD for a proactive, persistent AI assistant",
+   "pushed_at": "2026-06-09T16:16:46Z",
+   "url": "https://github.com/coleam00/second-brain-starter",
+   "license": null
+  }
+ ],
+ "A/B testing in:name,description stars:>500": [
+  {
+   "full_name": "fluxcd/flagger",
+   "stars": 5432,
+   "desc": "Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)",
+   "pushed_at": "2026-11-06T13:51:38Z",
+   "url": "https://github.com/fluxcd/flagger",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "splitrb/split",
+   "stars": 2708,
+   "desc": ":chart_with_upwards_trend: The Rack Based A/B testing framework",
+   "pushed_at": "2026-10-31T20:56:59Z",
+   "url": "https://github.com/splitrb/split",
+   "license": "MIT"
+  },
+  {
+   "full_name": "openflagr/flagr",
+   "stars": 2614,
+   "desc": "Flagr is a feature flagging, A/B testing and dynamic configuration microservice",
+   "pushed_at": "2026-11-06T12:41:39Z",
+   "url": "https://github.com/openflagr/flagr",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "aws-samples/aws-serverless-airline-booking",
+   "stars": 2341,
+   "desc": "Airline Booking is a sample web application that provides Flight Search, Flight Payment, Flight Booking and Loyalty points including end-to-end testing, GraphQL and CI/CD",
+   "pushed_at": "2024-08-09T22:14:20Z",
+   "url": "https://github.com/aws-samples/aws-serverless-airline-booking",
+   "license": "MIT-0"
+  },
+  {
+   "full_name": "senzhk/ADBKeyBoard",
+   "stars": 1990,
+   "desc": "Android Virtual Keyboard Input via ADB (Useful for Test Automation)",
+   "pushed_at": "2026-08-09T04:10:41Z",
+   "url": "https://github.com/senzhk/ADBKeyBoard",
+   "license": "GPL-2.0"
+  },
+  {
+   "full_name": "sixpack/sixpack",
+   "stars": 1751,
+   "desc": "Sixpack is a language-agnostic a/b-testing framework",
+   "pushed_at": "2022-08-21T18:43:32Z",
+   "url": "https://github.com/sixpack/sixpack",
+   "license": "BSD-2-Clause"
+  }
+ ],
+ "experimentation platform in:name,description stars:>300": [
+  {
+   "full_name": "tensorzero/tensorzero",
+   "stars": 11702,
+   "desc": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+   "pushed_at": "2026-06-11T01:48:44Z",
+   "url": "https://github.com/tensorzero/tensorzero",
+   "license": "Apache-2.0"
+  },
+  {
+   "full_name": "wandb/wandb",
+   "stars": 11316,
+   "desc": "The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.",
+   "pushed_at": "2026-11-13T02:28:22Z",
+   "url": "https://github.com/wandb/wandb",
+   "license": "MIT"
+  },
+  {
+   "full_name": "Flagsmith/flagsmith",
+   "stars": 7173,
+   "desc": "Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.",
+   "pushed_at": "2026-11-13T03:14:05Z",
+   "url": "https://github.com/Flagsmith/flagsmith",
+   "license": "BSD-3-Clause"
+  },
+  {
+   "full_name": "microsoft/malmo",
+   "stars": 4266,
+   "desc": "Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challe",
+   "pushed_at": "2025-09-03T13:10:21Z",
+   "url": "https://github.com/microsoft/malmo",
+   "license": "MIT"
+  },
+  {
+   "full_name": "meta/Ax",
+   "stars": 2842,
+   "desc": "Adaptive Experimentation Platform",
+   "pushed_at": "2026-11-10T17:12:46Z",
+   "url": "https://github.com/meta/Ax",
+   "license": "MIT"
+  },
+  {
+   "full_name": "microsoft/CyberBattleSim",
+   "stars": 1804,
+   "desc": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
+   "pushed_at": "2026-10-30T04:34:55Z",
+   "url": "https://github.com/microsoft/CyberBattleSim",
+   "license": "MIT"
+  }
+ ],
+ "AI compliance LLM in:name,description,readme stars:>100": [
+  {
+   "full_name": "public-apis/public-apis",
+   "stars": 498589,
+   "desc": "A collective list of free APIs",
+   "pushed_at": "2026-11-11T16:37:57Z",
+   "url": "https://github.com/public-apis/public-apis",
+   "license": "MIT"
+  },
+  {
+   "full_name": "avelino/awesome-go",
+   "stars": 193614,
+   "desc": "A curated list of awesome Go frameworks, libraries and software",
+   "pushed_at": "2026-11-12T22:58:12Z",
+   "url": "https://github.com/avelino/awesome-go",
+   "license": "MIT"
+  },
+  {
+   "full_name": "msitarzewski/agency-agents",
+   "stars": 167986,
+   "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert ",
+   "pushed_at": "2026-11-09T00:27:04Z",
+   "url": "https://github.com/msitarzewski/agency-agents",
+   "license": "MIT"
+  },
+  {
+   "full_name": "farion1231/cc-switch",
+   "stars": 154050,
+   "desc": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io",
+   "pushed_at": "2026-11-13T05:34:13Z",
+   "url": "https://github.com/farion1231/cc-switch",
+   "license": "MIT"
+  },
+  {
+   "full_name": "ripienaar/free-for-dev",
+   "stars": 142721,
+   "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+   "pushed_at": "2026-11-13T05:30:33Z",
+   "url": "https://github.com/ripienaar/free-for-dev",
+   "license": null
+  },
+  {
+   "full_name": "ruvnet/RuView",
+   "stars": 104186,
+   "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+   "pushed_at": "2026-11-13T06:16:41Z",
+   "url": "https://github.com/ruvnet/RuView",
+   "license": "MIT"
+  }
+ ],
+ "LLM token cost in:name,description,readme stars:>300": [
+  {
+   "full_name": "public-apis/public-apis",
+   "stars": 498589,
+   "desc": "A collective list of free APIs",
+   "pushed_at": "2026-11-11T16:37:57Z",
+   "url": "https://github.com/public-apis/public-apis",
+   "license": "MIT"
+  },
+  {
+   "full_name": "awesome-selfhosted/awesome-selfhosted",
+   "stars": 336544,
+   "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "pushed_at": "2026-11-07T11:49:42Z",
+   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "affaan-m/ECC",
+   "stars": 302118,
+   "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond",
+   "pushed_at": "2026-11-09T04:56:24Z",
+   "url": "https://github.com/affaan-m/ECC",
+   "license": "MIT"
+  },
+  {
+   "full_name": "microsoft/markitdown",
+   "stars": 195154,
+   "desc": "Python tool for converting files and office documents to Markdown.",
+   "pushed_at": "2026-11-07T00:14:01Z",
+   "url": "https://github.com/microsoft/markitdown",
+   "license": "MIT"
+  },
+  {
+   "full_name": "avelino/awesome-go",
+   "stars": 193614,
+   "desc": "A curated list of awesome Go frameworks, libraries and software",
+   "pushed_at": "2026-11-12T22:58:12Z",
+   "url": "https://github.com/avelino/awesome-go",
+   "license": "MIT"
+  },
+  {
+   "full_name": "msitarzewski/agency-agents",
+   "stars": 167986,
+   "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert ",
+   "pushed_at": "2026-11-09T00:27:04Z",
+   "url": "https://github.com/msitarzewski/agency-agents",
+   "license": "MIT"
+  }
+ ],
+ "LLM app builder workflow in:name,description stars:>1000": [],
+ "SQL tutorial in:name,description,readme stars:>1000": [
+  {
+   "full_name": "codecrafters-io/build-your-own-x",
+   "stars": 562195,
+   "desc": "Master programming by recreating your favorite technologies from scratch.",
+   "pushed_at": "2026-11-08T16:38:15Z",
+   "url": "https://github.com/codecrafters-io/build-your-own-x",
+   "license": null
+  },
+  {
+   "full_name": "sindresorhus/awesome",
+   "stars": 536090,
+   "desc": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+   "pushed_at": "2026-09-02T02:10:47Z",
+   "url": "https://github.com/sindresorhus/awesome",
+   "license": "CC0-1.0"
+  },
+  {
+   "full_name": "public-apis/public-apis",
+   "stars": 498589,
+   "desc": "A collective list of free APIs",
+   "pushed_at": "2026-11-11T16:37:57Z",
+   "url": "https://github.com/public-apis/public-apis",
+   "license": "MIT"
+  },
+  {
+   "full_name": "freeCodeCamp/freeCodeCamp",
+   "stars": 459070,
+   "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+   "pushed_at": "2026-11-13T06:27:45Z",
+   "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+   "license": "BSD-3-Clause"
+  },
+  {
+   "full_name": "jwasham/coding-interview-university",
+   "stars": 364316,
+   "desc": "A complete computer science study plan to become a software engineer.",
+   "pushed_at": "2026-11-07T16:03:02Z",
+   "url": "https://github.com/jwasham/coding-interview-university",
+   "license": "CC-BY-SA-4.0"
+  },
+  {
+   "full_name": "trimstray/the-book-of-secret-knowledge",
+   "stars": 258072,
+   "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+   "pushed_at": "2024-11-19T14:00:38Z",
+   "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+   "license": "MIT"
+  }
+ ],
+ "resume portfolio in:name,description stars:>500": [
+  {
+   "full_name": "AhmadHassan-BTed/PortfolioWebsite",
+   "stars": 3966,
+   "desc": "My personal website showcasing my work in Software Engineering and Graphic Design. A simple, multi-page static site built with HTML, CSS, and basic JavaScript. It’s desig",
+   "pushed_at": "2026-06-30T14:35:59Z",
+   "url": "https://github.com/AhmadHassan-BTed/PortfolioWebsite",
+   "license": null
+  },
+  {
+   "full_name": "codingmonster-tv/Awesome_Resume_Portfolio",
+   "stars": 2589,
+   "desc": "개발자를 위한 이력서 작성 가이드, 포맷 그리고 다양한 예시들",
+   "pushed_at": "2025-12-28T05:50:38Z",
+   "url": "https://github.com/codingmonster-tv/Awesome_Resume_Portfolio",
+   "license": null
+  },
+  {
+   "full_name": "tbaltrushaitis/cv",
+   "stars": 634,
+   "desc": ":mortar_board: Best in Class modern CV, Resume and Portfolio website template. All-in-One-Page site with simply customizable builder.",
+   "pushed_at": "2023-03-31T21:49:09Z",
+   "url": "https://github.com/tbaltrushaitis/cv",
+   "license": "MIT"
+  },
+  {
+   "full_name": "YuheshPandian/ICONIC",
+   "stars": 618,
+   "desc": "⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes.",
+   "pushed_at": "2026-08-07T14:34:00Z",
+   "url": "https://github.com/YuheshPandian/ICONIC",
+   "license": "MIT"
+  },
+  {
+   "full_name": "mmacneil/devfolio",
+   "stars": 560,
+   "desc": "A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.",
+   "pushed_at": "2024-07-23T18:55:36Z",
+   "url": "https://github.com/mmacneil/devfolio",
+   "license": "MIT"
+  }
+ ],
+ "AI product case study in:name,description,readme stars:>200": [
+  {
+   "full_name": "public-apis/public-apis",
+   "stars": 498590,
+   "desc": "A collective list of free APIs",
+   "pushed_at": "2026-11-11T16:37:57Z",
+   "url": "https://github.com/public-apis/public-apis",
+   "license": "MIT"
+  },
+  {
+   "full_name": "morluto/rea",
+   "stars": 455888,
+   "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+   "pushed_at": "2026-11-13T05:52:37Z",
+   "url": "https://github.com/morluto/rea",
+   "license": "MIT"
+  },
+  {
+   "full_name": "jwasham/coding-interview-university",
+   "stars": 364316,
+   "desc": "A complete computer science study plan to become a software engineer.",
+   "pushed_at": "2026-11-07T16:03:02Z",
+   "url": "https://github.com/jwasham/coding-interview-university",
+   "license": "CC-BY-SA-4.0"
+  },
+  {
+   "full_name": "awesome-selfhosted/awesome-selfhosted",
+   "stars": 336544,
+   "desc": "A list of Free Software network services and web applications which can be hosted on your own servers",
+   "pushed_at": "2026-11-07T11:49:42Z",
+   "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+   "license": "NOASSERTION"
+  },
+  {
+   "full_name": "trimstray/the-book-of-secret-knowledge",
+   "stars": 258072,
+   "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+   "pushed_at": "2024-11-19T14:00:38Z",
+   "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+   "license": "MIT"
+  },
+  {
+   "full_name": "avelino/awesome-go",
+   "stars": 193614,
+   "desc": "A curated list of awesome Go frameworks, libraries and software",
+   "pushed_at": "2026-11-12T22:58:12Z",
+   "url": "https://github.com/avelino/awesome-go",
+   "license": "MIT"
+  }
+ ]
+}

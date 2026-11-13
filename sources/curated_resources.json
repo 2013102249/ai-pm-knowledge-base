@@ -1,0 +1,778 @@
+{
+ "checked_at": "2026-11-13",
+ "count": 42,
+ "items": [
+  {
+   "id": "R01",
+   "full_name": "microsoft/generative-ai-for-beginners",
+   "url": "https://github.com/microsoft/generative-ai-for-beginners",
+   "stars": 123429,
+   "pushed_at": "2026-11-12",
+   "license": "MIT",
+   "desc": "21 Lessons, Get Started Building with Generative AI ",
+   "readme_chars": 24581,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W1"
+   ],
+   "reuse": [],
+   "type": "系统教程",
+   "why": "微软官方 21 课生成式 AI 入门课程，含视频/作业/多语言，适合作技术通识底本"
+  },
+  {
+   "id": "R02",
+   "full_name": "dair-ai/Prompt-Engineering-Guide",
+   "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+   "stars": 80024,
+   "pushed_at": "2026-03-11",
+   "license": "MIT",
+   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+   "readme_chars": 10926,
+   "doc": "完整",
+   "activity": "较活跃",
+   "main": [
+    "W1",
+    "W2"
+   ],
+   "reuse": [],
+   "type": "文档库",
+   "why": "提示词与上下文工程最完整的指南仓库，含论文、课程、Notebook"
+  },
+  {
+   "id": "R03",
+   "full_name": "wangxuqi/Prompt-Engineering-Guide-Chinese",
+   "url": "https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese",
+   "stars": 1491,
+   "pushed_at": "2024-09-14",
+   "license": "MIT",
+   "desc": "Prompt工程师指南，源自英文版，但增加了AIGC的prompt部分，为了降低同学们的学习门槛，翻译更新",
+   "readme_chars": 1099,
+   "doc": "精简/有文档站",
+   "activity": "静态资料",
+   "main": [
+    "W1"
+   ],
+   "reuse": [],
+   "type": "中文文档",
+   "why": "英文指南的中文译本并补 AIGC 提示词章节，降低学员阅读门槛"
+  },
+  {
+   "id": "R04",
+   "full_name": "Meirtz/Awesome-Context-Engineering",
+   "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
+   "stars": 3341,
+   "pushed_at": "2026-05-28",
+   "license": "MIT",
+   "desc": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guid",
+   "readme_chars": 167010,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W1"
+   ],
+   "reuse": [
+    "W3"
+   ],
+   "type": "综述索引",
+   "why": "从提示词工程到生产级上下文工程的综述，含数百篇论文与实现指南"
+  },
+  {
+   "id": "R05",
+   "full_name": "liyupi/ai-guide",
+   "url": "https://github.com/liyupi/ai-guide",
+   "stars": 22065,
+   "pushed_at": "2026-11-12",
+   "license": "NOASSERTION",
+   "desc": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）",
+   "readme_chars": 9198,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W1",
+    "W6"
+   ],
+   "reuse": [],
+   "type": "中文资源库",
+   "why": "中文 AI 资源大全 + Vibe Coding 零基础教程，覆盖 Prompt/RAG/MCP/Agent"
+  },
+  {
+   "id": "R06",
+   "full_name": "RefoundAI/lenny-skills",
+   "url": "https://github.com/RefoundAI/lenny-skills",
+   "stars": 1482,
+   "pushed_at": "2026-07-16",
+   "license": "MIT",
+   "desc": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
+   "readme_chars": 16249,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W1",
+    "W8"
+   ],
+   "reuse": [],
+   "type": "能力清单",
+   "why": "把 Lenny's Podcast 沉淀为 86 项产品管理技能，含用户研究、策略、招聘"
+  },
+  {
+   "id": "R07",
+   "full_name": "hiyouga/LlamaFactory",
+   "url": "https://github.com/hiyouga/LlamaFactory",
+   "stars": 76023,
+   "pushed_at": "2026-11-12",
+   "license": "Apache-2.0",
+   "desc": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+   "readme_chars": 70546,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "工具+文档",
+   "why": "统一微调 100+ 模型，文档完整，适合讲「够用原则」下的微调边界"
+  },
+  {
+   "id": "R08",
+   "full_name": "confident-ai/deepeval",
+   "url": "https://github.com/confident-ai/deepeval",
+   "stars": 19468,
+   "pushed_at": "2026-11-12",
+   "license": "Apache-2.0",
+   "desc": "The LLM Evaluation Framework",
+   "readme_chars": 30553,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "评测框架",
+   "why": "LLM 评测框架，指标定义与单元测试式写法可直接迁移到评测集设计"
+  },
+  {
+   "id": "R09",
+   "full_name": "modelscope/evalscope",
+   "url": "https://github.com/modelscope/evalscope",
+   "stars": 3688,
+   "pushed_at": "2026-11-13",
+   "license": "Apache-2.0",
+   "desc": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+   "readme_chars": 27945,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "评测框架",
+   "why": "中文社区维护的大模型/VLM/AIGC 评测与压测框架，贴合国内模型选型"
+  },
+  {
+   "id": "R10",
+   "full_name": "promptfoo/promptfoo",
+   "url": "https://github.com/promptfoo/promptfoo",
+   "stars": 27121,
+   "pushed_at": "2026-11-13",
+   "license": "MIT",
+   "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simpl",
+   "readme_chars": 4595,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "评测+红队",
+   "why": "提示词/Agent/RAG 测试与红队扫描，声明式配置适合非算法岗上手"
+  },
+  {
+   "id": "R11",
+   "full_name": "NVIDIA-NeMo/Guardrails",
+   "url": "https://github.com/NVIDIA-NeMo/Guardrails",
+   "stars": 7485,
+   "pushed_at": "2026-11-13",
+   "license": "NOASSERTION",
+   "desc": "NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems.",
+   "readme_chars": 22423,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "安全护栏",
+   "why": "可编程护栏框架，用于讲内容安全、越权与兜底策略的工程实现"
+  },
+  {
+   "id": "R12",
+   "full_name": "OWASP/www-project-top-10-for-large-language-model-applications",
+   "url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
+   "stars": 1491,
+   "pushed_at": "2026-08-05",
+   "license": "NOASSERTION",
+   "desc": "OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project)",
+   "readme_chars": 3950,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "安全标准",
+   "why": "OWASP LLM 应用十大风险，合规与安全 Checklist 的权威依据"
+  },
+  {
+   "id": "R13",
+   "full_name": "international-explore/awesome-privacy-chinese",
+   "url": "https://github.com/international-explore/awesome-privacy-chinese",
+   "stars": 487,
+   "pushed_at": "2026-10-05",
+   "license": "CC0-1.0",
+   "desc": "[WIP]国内隐私合规技术交流",
+   "readme_chars": 42776,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "中文合规资料",
+   "why": "国内隐私合规技术资料索引，适合讲数据合规落地"
+  },
+  {
+   "id": "R14",
+   "full_name": "XiaomingX/awesome-chinese-law",
+   "url": "https://github.com/XiaomingX/awesome-chinese-law",
+   "stars": 107,
+   "pushed_at": "2026-02-08",
+   "license": "Apache-2.0",
+   "desc": "一个网络安全法律法规、安全政策、国家标准、行业标准知识库。A knowledge base of cybersecurity laws and regulations, security policies, national standards, and industry standards.",
+   "readme_chars": 5461,
+   "doc": "较完整",
+   "activity": "较活跃",
+   "main": [
+    "W2"
+   ],
+   "reuse": [],
+   "type": "法规知识库",
+   "why": "网络安全法律法规、国家标准、行业标准知识库，用于合规条文检索"
+  },
+  {
+   "id": "R15",
+   "full_name": "langgenius/dify",
+   "url": "https://github.com/langgenius/dify",
+   "stars": 161076,
+   "pushed_at": "2026-11-13",
+   "license": "NOASSERTION",
+   "desc": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move ",
+   "readme_chars": 12660,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W3",
+    "W6"
+   ],
+   "reuse": [],
+   "type": "产品+文档",
+   "why": "开源 LLM 应用开发平台，可视化编排 Agent/工作流，是产品设计最佳参照物"
+  },
+  {
+   "id": "R16",
+   "full_name": "langchain-ai/langgraph",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "stars": 44882,
+   "pushed_at": "2026-11-13",
+   "license": "MIT",
+   "desc": "Build resilient agents.",
+   "readme_chars": 6351,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "框架+文档",
+   "why": "有状态、可回滚的 Agent 图编排，讲清「流程可控」的产品价值"
+  },
+  {
+   "id": "R17",
+   "full_name": "xindoo/agentic-design-patterns",
+   "url": "https://github.com/xindoo/agentic-design-patterns",
+   "stars": 8492,
+   "pushed_at": "2026-08-30",
+   "license": null,
+   "desc": "谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。 ",
+   "readme_chars": 6462,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "中文教材",
+   "why": "《Agentic Design Patterns》中文版，含在线阅读、PDF/EPUB，模式化讲 Agent 设计"
+  },
+  {
+   "id": "R18",
+   "full_name": "bojieli/ai-agent-book",
+   "url": "https://github.com/bojieli/ai-agent-book",
+   "stars": 57894,
+   "pushed_at": "2026-10-08",
+   "license": "Apache-2.0",
+   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "readme_chars": 35761,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "中文教材",
+   "why": "《深入理解 AI Agent》全书正文 + 按章代码，适合作为架构原理的中文底本"
+  },
+  {
+   "id": "R19",
+   "full_name": "infiniflow/ragflow",
+   "url": "https://github.com/infiniflow/ragflow",
+   "stars": 94098,
+   "pushed_at": "2026-11-13",
+   "license": "Apache-2.0",
+   "desc": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+   "readme_chars": 16643,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "产品+文档",
+   "why": "RAG 引擎与上下文基础设施，文档解析、切片、召回评测齐全"
+  },
+  {
+   "id": "R20",
+   "full_name": "microsoft/graphrag",
+   "url": "https://github.com/microsoft/graphrag",
+   "stars": 36639,
+   "pushed_at": "2026-11-09",
+   "license": "MIT",
+   "desc": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+   "readme_chars": 5082,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "框架+文档",
+   "why": "基于知识图谱的 RAG，用于讲「全局性问题」与结构化知识库产品"
+  },
+  {
+   "id": "R21",
+   "full_name": "NirDiamant/RAG_Techniques",
+   "url": "https://github.com/NirDiamant/RAG_Techniques",
+   "stars": 30332,
+   "pushed_at": "2026-11-02",
+   "license": "NOASSERTION",
+   "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+   "readme_chars": 84246,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "案例教程",
+   "why": "按 Notebook 逐项演示 RAG 进阶技巧，是课堂演示与作业的直接素材"
+  },
+  {
+   "id": "R22",
+   "full_name": "Mintplex-Labs/anything-llm",
+   "url": "https://github.com/Mintplex-Labs/anything-llm",
+   "stars": 68236,
+   "pushed_at": "2026-11-13",
+   "license": "MIT",
+   "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+   "readme_chars": 25650,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "产品",
+   "why": "本地优先的知识库产品，用于拆解「知识库类产品」的功能边界与体验设计"
+  },
+  {
+   "id": "R23",
+   "full_name": "huggingface/transformers",
+   "url": "https://github.com/huggingface/transformers",
+   "stars": 168938,
+   "pushed_at": "2026-11-13",
+   "license": "Apache-2.0",
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference an",
+   "readme_chars": 16900,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W3"
+   ],
+   "reuse": [],
+   "type": "框架+文档",
+   "why": "文本/视觉/音频/多模态模型的统一定义框架，多模态章节的技术参照"
+  },
+  {
+   "id": "R24",
+   "full_name": "KhazP/vibe-coding-prompt-template",
+   "url": "https://github.com/KhazP/vibe-coding-prompt-template",
+   "stars": 3251,
+   "pushed_at": "2026-10-04",
+   "license": "MIT",
+   "desc": "Templates and workflow for generating PRDs, Tech Designs, and MVP and more using LLMs for AI IDEs",
+   "readme_chars": 9727,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W4",
+    "W6"
+   ],
+   "reuse": [],
+   "type": "模板",
+   "why": "PRD、技术方案、MVP 的提示词模板与工作流，直接可做学员写作脚手架"
+  },
+  {
+   "id": "R25",
+   "full_name": "PostHog/posthog",
+   "url": "https://github.com/PostHog/posthog",
+   "stars": 40768,
+   "pushed_at": "2026-11-13",
+   "license": "NOASSERTION",
+   "desc": ":hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experim",
+   "readme_chars": 13726,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W4",
+    "W5"
+   ],
+   "reuse": [],
+   "type": "产品+文档",
+   "why": "产品分析平台，事件模型、漏斗、留存与实验的指标体系范本"
+  },
+  {
+   "id": "R26",
+   "full_name": "datawhalechina/wonderful-sql",
+   "url": "https://github.com/datawhalechina/wonderful-sql",
+   "stars": 1141,
+   "pushed_at": "2026-08-23",
+   "license": null,
+   "desc": "Follow me，从 0 到 1 掌握 SQL。",
+   "readme_chars": 15369,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W4"
+   ],
+   "reuse": [],
+   "type": "中文教程",
+   "why": "中文 SQL 实战教程，配习题与数据集，适配零基础转岗学员"
+  },
+  {
+   "id": "R27",
+   "full_name": "openai/openai-cookbook",
+   "url": "https://github.com/openai/openai-cookbook",
+   "stars": 77077,
+   "pushed_at": "2026-11-12",
+   "license": "MIT",
+   "desc": "Examples and guides for using the OpenAI API",
+   "readme_chars": 1174,
+   "doc": "精简/有文档站",
+   "activity": "活跃",
+   "main": [
+    "W4",
+    "W1"
+   ],
+   "reuse": [],
+   "type": "示例库",
+   "why": "官方 API 示例与工程范式，用于校验 PRD 中技术方案的可行性"
+  },
+  {
+   "id": "R28",
+   "full_name": "growthbook/growthbook",
+   "url": "https://github.com/growthbook/growthbook",
+   "stars": 8588,
+   "pushed_at": "2026-11-13",
+   "license": "NOASSERTION",
+   "desc": "Open Source Feature Flags, Experimentation, and Product Analytics",
+   "readme_chars": 4367,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W5"
+   ],
+   "reuse": [],
+   "type": "实验平台",
+   "why": "开源 A/B 实验与 Feature Flag 平台，实验设计、指标与决策流程完整"
+  },
+  {
+   "id": "R29",
+   "full_name": "Flagsmith/flagsmith",
+   "url": "https://github.com/Flagsmith/flagsmith",
+   "stars": 7173,
+   "pushed_at": "2026-11-13",
+   "license": "BSD-3-Clause",
+   "desc": "Flagsmith is an open-source feature flag platform with remote config, experimentation, and self-hosted or cloud deployment options.",
+   "readme_chars": 8859,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W5"
+   ],
+   "reuse": [],
+   "type": "实验平台",
+   "why": "Feature Flag + 远程配置 + 实验，适合讲灰度发布与开关治理"
+  },
+  {
+   "id": "R30",
+   "full_name": "tensorzero/tensorzero",
+   "url": "https://github.com/tensorzero/tensorzero",
+   "stars": 11702,
+   "pushed_at": "2026-06-11",
+   "license": "Apache-2.0",
+   "desc": "TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.",
+   "readme_chars": 17848,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W5",
+    "W2"
+   ],
+   "reuse": [],
+   "type": "LLMOps",
+   "why": "统一网关、可观测、评测与优化循环，含成本/质量权衡实践"
+  },
+  {
+   "id": "R31",
+   "full_name": "langfuse/langfuse",
+   "url": "https://github.com/langfuse/langfuse",
+   "stars": 37372,
+   "pushed_at": "2026-11-13",
+   "license": "NOASSERTION",
+   "desc": "🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every ",
+   "readme_chars": 58254,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W5",
+    "W6"
+   ],
+   "reuse": [],
+   "type": "可观测平台",
+   "why": "LLM 调用追踪、评测与 Prompt 管理，支撑「上线后怎么度量」"
+  },
+  {
+   "id": "R32",
+   "full_name": "BerriAI/litellm",
+   "url": "https://github.com/BerriAI/litellm",
+   "stars": 63201,
+   "pushed_at": "2026-11-13",
+   "license": "NOASSERTION",
+   "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and l",
+   "readme_chars": 40564,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W5"
+   ],
+   "reuse": [],
+   "type": "网关+成本",
+   "why": "统一 100+ 模型 API 并做成本追踪、负载均衡，适合讲 Token 成本核算"
+  },
+  {
+   "id": "R33",
+   "full_name": "anthropics/claude-code",
+   "url": "https://github.com/anthropics/claude-code",
+   "stars": 155485,
+   "pushed_at": "2026-11-13",
+   "license": null,
+   "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining c",
+   "readme_chars": 2867,
+   "doc": "精简/有文档站",
+   "activity": "活跃",
+   "main": [
+    "W6"
+   ],
+   "reuse": [],
+   "type": "工具+文档",
+   "why": "AI 编程代理官方仓库与文档，Vibe Coding 工作流的一手资料"
+  },
+  {
+   "id": "R34",
+   "full_name": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "stars": 316911,
+   "pushed_at": "2026-11-03",
+   "license": "MIT",
+   "desc": "An agentic skills framework & software development methodology that works.",
+   "readme_chars": 14835,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W6"
+   ],
+   "reuse": [],
+   "type": "方法论",
+   "why": "Agent 技能框架与软件开发方法论，讲「先写规格再让 AI 执行」"
+  },
+  {
+   "id": "R35",
+   "full_name": "snarktank/ralph",
+   "url": "https://github.com/snarktank/ralph",
+   "stars": 22224,
+   "pushed_at": "2026-02-02",
+   "license": "MIT",
+   "desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. ",
+   "readme_chars": 7377,
+   "doc": "较完整",
+   "activity": "较活跃",
+   "main": [
+    "W6"
+   ],
+   "reuse": [],
+   "type": "工作流案例",
+   "why": "以 PRD 条目驱动自主开发循环，演示「PRD → 可验收任务」的拆解"
+  },
+  {
+   "id": "R36",
+   "full_name": "Windy3f3f3f3f/how-claude-code-works",
+   "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+   "stars": 3825,
+   "pushed_at": "2026-08-17",
+   "license": "MIT",
+   "desc": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
+   "readme_chars": 13514,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W6"
+   ],
+   "reuse": [],
+   "type": "中文原理解析",
+   "why": "深入解析 Agent 循环、上下文工程与工具系统，帮助 PM 理解工程边界"
+  },
+  {
+   "id": "R37",
+   "full_name": "datawhalechina/llm-universe",
+   "url": "https://github.com/datawhalechina/llm-universe",
+   "stars": 14294,
+   "pushed_at": "2026-08-27",
+   "license": null,
+   "desc": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+   "readme_chars": 7701,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W6",
+    "W3"
+   ],
+   "reuse": [],
+   "type": "中文实战教程",
+   "why": "《动手学大模型应用开发》中文教程，覆盖 RAG、Agent 与 MVP 搭建"
+  },
+  {
+   "id": "R38",
+   "full_name": "1c7/chinese-independent-developer",
+   "url": "https://github.com/1c7/chinese-independent-developer",
+   "stars": 62090,
+   "pushed_at": "2026-11-13",
+   "license": null,
+   "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+   "readme_chars": 319072,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W7",
+    "W1"
+   ],
+   "reuse": [],
+   "type": "案例库",
+   "why": "中文独立开发者项目列表，行业纵深与选题灵感的真实案例池"
+  },
+  {
+   "id": "R39",
+   "full_name": "resumejob/awesome-resume",
+   "url": "https://github.com/resumejob/awesome-resume",
+   "stars": 7483,
+   "pushed_at": "2025-09-23",
+   "license": null,
+   "desc": "Resume，Resume Templates，程序员简历例句，简历模版，",
+   "readme_chars": 35173,
+   "doc": "完整",
+   "activity": "静态资料",
+   "main": [
+    "W7",
+    "W8"
+   ],
+   "reuse": [],
+   "type": "中文模板库",
+   "why": "中文简历模板与例句库，用于作品集与简历工作坊"
+  },
+  {
+   "id": "R40",
+   "full_name": "shaxiu/XianyuAutoAgent",
+   "url": "https://github.com/shaxiu/XianyuAutoAgent",
+   "stars": 9674,
+   "pushed_at": "2026-06-10",
+   "license": "GPL-3.0",
+   "desc": "智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。",
+   "readme_chars": 4144,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W7",
+    "W3"
+   ],
+   "reuse": [],
+   "type": "中文项目案例",
+   "why": "闲鱼智能客服 Agent，含多专家协同、议价与上下文感知，是可拆解的完整商业场景"
+  },
+  {
+   "id": "R41",
+   "full_name": "jwasham/coding-interview-university",
+   "url": "https://github.com/jwasham/coding-interview-university",
+   "stars": 364316,
+   "pushed_at": "2026-11-07",
+   "license": "CC-BY-SA-4.0",
+   "desc": "A complete computer science study plan to become a software engineer.",
+   "readme_chars": 136404,
+   "doc": "完整",
+   "activity": "活跃",
+   "main": [
+    "W8"
+   ],
+   "reuse": [],
+   "type": "面试体系",
+   "why": "系统化面试准备清单与知识地图，用于迁移构建 AI PM 面试全景图"
+  },
+  {
+   "id": "R42",
+   "full_name": "freeCodeCamp/freeCodeCamp",
+   "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+   "stars": 459070,
+   "pushed_at": "2026-11-13",
+   "license": "BSD-3-Clause",
+   "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+   "readme_chars": 7203,
+   "doc": "较完整",
+   "activity": "活跃",
+   "main": [
+    "W8",
+    "W4"
+   ],
+   "reuse": [],
+   "type": "练习库",
+   "why": "免费编程与数据课程，用于技术/数据类面试题的补基础训练"
+  }
+ ]
+}

@@ -1,0 +1,524 @@
+{
+ "AI product manager resources": [],
+ "LLM product management": [
+  {
+   "full_name": "RefoundAI/lenny-skills",
+   "stars": 1482,
+   "desc": "86 product management skills from Lenny's Podcast for Claude Code and AI agents. Hiring, user research, strategy, shipping, and more.",
+   "pushed_at": "2026-07-16T16:24:54Z",
+   "url": "https://github.com/RefoundAI/lenny-skills",
+   "license": "MIT",
+   "default_branch": "main"
+  }
+ ],
+ "prompt engineering guide": [
+  {
+   "full_name": "dair-ai/Prompt-Engineering-Guide",
+   "stars": 80024,
+   "desc": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+   "pushed_at": "2026-03-11T20:09:13Z",
+   "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "liyupi/ai-guide",
+   "stars": 22065,
+   "desc": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Eng",
+   "pushed_at": "2026-11-12T02:10:38Z",
+   "url": "https://github.com/liyupi/ai-guide",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "trigaten/Learn_Prompting",
+   "stars": 4745,
+   "desc": "Prompt Engineering, Generative AI, and LLM Guide by Learn Prompting | Join our discord for the largest Prompt Engineering learning community",
+   "pushed_at": "2025-01-14T15:04:07Z",
+   "url": "https://github.com/trigaten/Learn_Prompting",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "Meirtz/Awesome-Context-Engineering",
+   "stars": 3341,
+   "desc": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI a",
+   "pushed_at": "2026-05-28T05:40:26Z",
+   "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "sudoskys/StableDiffusionBook",
+   "stars": 1960,
+   "desc": "How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌",
+   "pushed_at": "2024-10-31T13:19:13Z",
+   "url": "https://github.com/sudoskys/StableDiffusionBook",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "wangxuqi/Prompt-Engineering-Guide-Chinese",
+   "stars": 1491,
+   "desc": "Prompt工程师指南，源自英文版，但增加了AIGC的prompt部分，为了降低同学们的学习门槛，翻译更新",
+   "pushed_at": "2024-09-14T02:18:48Z",
+   "url": "https://github.com/wangxuqi/Prompt-Engineering-Guide-Chinese",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "yunwei37/Prompt-Engineering-Guide-zh-CN",
+   "stars": 1108,
+   "desc": "🐙 关于提示词工程（prompt）的指南、论文、讲座、笔记本和资源大全（自动持续更新）",
+   "pushed_at": "2026-05-13T21:28:53Z",
+   "url": "https://github.com/yunwei37/Prompt-Engineering-Guide-zh-CN",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique",
+   "stars": 1010,
+   "desc": "ChatGPT提问技巧",
+   "pushed_at": "2023-03-21T04:43:23Z",
+   "url": "https://github.com/ORDINAND/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique",
+   "license": null,
+   "default_branch": "main"
+  }
+ ],
+ "context engineering LLM": [
+  {
+   "full_name": "ai-boost/awesome-prompts",
+   "stars": 9235,
+   "desc": "Curated prompts, frameworks and papers for LLMs and agents, with an engineering bias. Prompt engineering, context engineering, agent harnesses, red teaming.",
+   "pushed_at": "2026-11-13T04:43:18Z",
+   "url": "https://github.com/ai-boost/awesome-prompts",
+   "license": "GPL-3.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "Windy3f3f3f3f/how-claude-code-works",
+   "stars": 3825,
+   "desc": "Deep dive into Claude Code internals — architecture, agent loop, context engineering, and more. / 深入解析 Claude Code 源码：架构、Agent 循环、上下文工程、工具系统等",
+   "pushed_at": "2026-08-17T08:27:42Z",
+   "url": "https://github.com/Windy3f3f3f3f/how-claude-code-works",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "Meirtz/Awesome-Context-Engineering",
+   "stars": 3341,
+   "desc": " 🔥 Comprehensive survey on Context Engineering: from prompt engineering to production-grade AI systems. hundreds of papers, frameworks, and  implementation guides for LLMs and AI a",
+   "pushed_at": "2026-05-28T05:40:26Z",
+   "url": "https://github.com/Meirtz/Awesome-Context-Engineering",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "wquguru/harness-books",
+   "stars": 3244,
+   "desc": "Harness engineering in two books: constraints, query loops, context governance and multi-agent verification in Claude Code and Codex. harness-books.agentway.dev",
+   "pushed_at": "2026-04-19T03:01:21Z",
+   "url": "https://github.com/wquguru/harness-books",
+   "license": null,
+   "default_branch": "main"
+  },
+  {
+   "full_name": "EgoAlpha/prompt-in-context-learning",
+   "stars": 2252,
+   "desc": "Awesome resources for in-context learning and prompt engineering: Mastery of the LLMs such as ChatGPT, GPT-3, and FlanT5, with up-to-date and cutting-edge updates. ",
+   "pushed_at": "2026-11-13T01:00:04Z",
+   "url": "https://github.com/EgoAlpha/prompt-in-context-learning",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "NeoLabHQ/context-engineering-kit",
+   "stars": 1822,
+   "desc": "Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemini CLI, and others. Includes CodeRabbit open-source a",
+   "pushed_at": "2026-08-26T21:08:01Z",
+   "url": "https://github.com/NeoLabHQ/context-engineering-kit",
+   "license": "GPL-3.0",
+   "default_branch": "master"
+  },
+  {
+   "full_name": "2akouwu/reverify",
+   "stars": 1341,
+   "desc": "Stop your AI from making things up — it proposes, deterministic tools decide, every claim checked against ground truth with evidence. Grounded facts and context survive resets. Rev",
+   "pushed_at": "2026-11-01T11:28:54Z",
+   "url": "https://github.com/2akouwu/reverify",
+   "license": "MIT",
+   "default_branch": "main"
+  }
+ ],
+ "LLM evaluation framework": [
+  {
+   "full_name": "openai/evals",
+   "stars": 19736,
+   "desc": "Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.",
+   "pushed_at": "2026-04-14T15:29:57Z",
+   "url": "https://github.com/openai/evals",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "confident-ai/deepeval",
+   "stars": 19468,
+   "desc": "The LLM Evaluation Framework",
+   "pushed_at": "2026-11-12T23:21:12Z",
+   "url": "https://github.com/confident-ai/deepeval",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "raga-ai-hub/RagaAI-Catalyst",
+   "stars": 16193,
+   "desc": "Python SDK for Agent AI Observability, Monitoring and Evaluation Framework. Includes features like agent, llm and tools tracing, debugging multi-agentic system, self-hosted dashboa",
+   "pushed_at": "2026-02-11T14:43:33Z",
+   "url": "https://github.com/raga-ai-hub/RagaAI-Catalyst",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "evidentlyai/evidently",
+   "stars": 8062,
+   "desc": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+   "pushed_at": "2026-09-29T08:32:43Z",
+   "url": "https://github.com/evidentlyai/evidently",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "lm-sys/RouteLLM",
+   "stars": 5699,
+   "desc": "A framework for serving and evaluating LLM routers - save LLM costs without compromising quality",
+   "pushed_at": "2024-08-10T19:10:15Z",
+   "url": "https://github.com/lm-sys/RouteLLM",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "modelscope/evalscope",
+   "stars": 3688,
+   "desc": "A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.",
+   "pushed_at": "2026-11-13T04:52:36Z",
+   "url": "https://github.com/modelscope/evalscope",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "stanford-crfm/helm",
+   "stars": 2970,
+   "desc": "Holistic Evaluation of Language Models (HELM) is an open source Python framework created by the Center for Research on Foundation Models (CRFM) at Stanford for holistic, reproducib",
+   "pushed_at": "2026-09-01T01:33:19Z",
+   "url": "https://github.com/stanford-crfm/helm",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "1517005260/graph-rag-agent",
+   "stars": 2358,
+   "desc": "拼好RAG：手搓并融合了GraphRAG、LightRAG、Neo4j-llm-graph-builder进行知识图谱构建以及搜索；整合DeepSearch技术实现私域RAG的推理；自制针对GraphRAG的评估框架| Integrate GraphRAG, LightRAG, and Neo4j-llm-graph-builder for knowledg",
+   "pushed_at": "2025-11-05T08:15:51Z",
+   "url": "https://github.com/1517005260/graph-rag-agent",
+   "license": "MIT",
+   "default_branch": "master"
+  }
+ ],
+ "RAG retrieval augmented generation": [
+  {
+   "full_name": "infiniflow/ragflow",
+   "stars": 94098,
+   "desc": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+   "pushed_at": "2026-11-13T05:48:01Z",
+   "url": "https://github.com/infiniflow/ragflow",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "HKUDS/LightRAG",
+   "stars": 40680,
+   "desc": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
+   "pushed_at": "2026-11-12T18:05:37Z",
+   "url": "https://github.com/HKUDS/LightRAG",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "microsoft/graphrag",
+   "stars": 36639,
+   "desc": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+   "pushed_at": "2026-11-09T07:23:43Z",
+   "url": "https://github.com/microsoft/graphrag",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "NirDiamant/RAG_Techniques",
+   "stars": 30332,
+   "desc": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+   "pushed_at": "2026-11-02T00:36:15Z",
+   "url": "https://github.com/NirDiamant/RAG_Techniques",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "SciPhi-AI/R2R",
+   "stars": 8089,
+   "desc": "SoTA production-ready AI retrieval system. Agentic Retrieval-Augmented Generation (RAG) with a RESTful API.",
+   "pushed_at": "2025-11-07T01:02:44Z",
+   "url": "https://github.com/SciPhi-AI/R2R",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "weaviate/Verba",
+   "stars": 7693,
+   "desc": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+   "pushed_at": "2026-06-08T09:25:18Z",
+   "url": "https://github.com/weaviate/Verba",
+   "license": "BSD-3-Clause",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "truefoundry/cognita",
+   "stars": 4408,
+   "desc": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry ",
+   "pushed_at": "2026-03-13T15:04:36Z",
+   "url": "https://github.com/truefoundry/cognita",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "GiovanniPasq/agentic-rag-for-dummies",
+   "stars": 4379,
+   "desc": "A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.",
+   "pushed_at": "2026-11-10T21:53:19Z",
+   "url": "https://github.com/GiovanniPasq/agentic-rag-for-dummies",
+   "license": "MIT",
+   "default_branch": "main"
+  }
+ ],
+ "AI agent framework": [
+  {
+   "full_name": "obra/superpowers",
+   "stars": 316911,
+   "desc": "An agentic skills framework & software development methodology that works.",
+   "pushed_at": "2026-11-03T23:24:58Z",
+   "url": "https://github.com/obra/superpowers",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "langchain-ai/langchain",
+   "stars": 149429,
+   "desc": "The agent engineering platform.",
+   "pushed_at": "2026-11-12T19:39:11Z",
+   "url": "https://github.com/langchain-ai/langchain",
+   "license": "MIT",
+   "default_branch": "master"
+  },
+  {
+   "full_name": "heygen-com/hyperframes",
+   "stars": 83555,
+   "desc": "Write HTML. Render video. Built for agents.",
+   "pushed_at": "2026-11-13T05:40:53Z",
+   "url": "https://github.com/heygen-com/hyperframes",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "FoundationAgents/MetaGPT",
+   "stars": 71267,
+   "desc": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+   "pushed_at": "2026-01-21T10:12:33Z",
+   "url": "https://github.com/FoundationAgents/MetaGPT",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "microsoft/autogen",
+   "stars": 61800,
+   "desc": "A programming framework for agentic AI",
+   "pushed_at": "2026-11-12T10:19:36Z",
+   "url": "https://github.com/microsoft/autogen",
+   "license": "CC-BY-4.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "crewAIInc/crewAI",
+   "stars": 60832,
+   "desc": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+   "pushed_at": "2026-11-13T06:25:18Z",
+   "url": "https://github.com/crewAIInc/crewAI",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "AstrBotDevs/AstrBot",
+   "stars": 46809,
+   "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+   "pushed_at": "2026-11-13T01:03:03Z",
+   "url": "https://github.com/AstrBotDevs/AstrBot",
+   "license": "AGPL-3.0",
+   "default_branch": "master"
+  },
+  {
+   "full_name": "langchain-ai/langgraph",
+   "stars": 44882,
+   "desc": "Build resilient agents.",
+   "pushed_at": "2026-11-13T05:39:48Z",
+   "url": "https://github.com/langchain-ai/langgraph",
+   "license": "MIT",
+   "default_branch": "main"
+  }
+ ],
+ "multimodal LLM": [
+  {
+   "full_name": "huggingface/transformers",
+   "stars": 168938,
+   "desc": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+   "pushed_at": "2026-11-13T05:49:32Z",
+   "url": "https://github.com/huggingface/transformers",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "Mintplex-Labs/anything-llm",
+   "stars": 68236,
+   "desc": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+   "pushed_at": "2026-11-13T02:04:48Z",
+   "url": "https://github.com/Mintplex-Labs/anything-llm",
+   "license": "MIT",
+   "default_branch": "master"
+  },
+  {
+   "full_name": "bojieli/ai-agent-book",
+   "stars": 57893,
+   "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+   "pushed_at": "2026-10-08T15:06:27Z",
+   "url": "https://github.com/bojieli/ai-agent-book",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "sgl-project/sglang",
+   "stars": 38808,
+   "desc": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+   "pushed_at": "2026-11-13T06:26:32Z",
+   "url": "https://github.com/sgl-project/sglang",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "deepset-ai/haystack",
+   "stars": 27001,
+   "desc": "Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over r",
+   "pushed_at": "2026-11-13T02:10:09Z",
+   "url": "https://github.com/deepset-ai/haystack",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "screenpipe/screenpipe",
+   "stars": 22356,
+   "desc": "YC (S26) | Open Computer History | Continuously record your company computer work, map your workflows, help you find work worth automating, and power your agents' context",
+   "pushed_at": "2026-11-13T05:22:04Z",
+   "url": "https://github.com/screenpipe/screenpipe",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "microsoft/unilm",
+   "stars": 22242,
+   "desc": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+   "pushed_at": "2026-09-21T03:27:00Z",
+   "url": "https://github.com/microsoft/unilm",
+   "license": "MIT",
+   "default_branch": "master"
+  },
+  {
+   "full_name": "deepseek-ai/Janus",
+   "stars": 17762,
+   "desc": "Janus-Series: Unified Multimodal Understanding and Generation Models",
+   "pushed_at": "2025-02-01T07:58:29Z",
+   "url": "https://github.com/deepseek-ai/Janus",
+   "license": "MIT",
+   "default_branch": "main"
+  }
+ ],
+ "responsible AI governance": [],
+ "LLMOps": [
+  {
+   "full_name": "BerriAI/litellm",
+   "stars": 63201,
+   "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azu",
+   "pushed_at": "2026-11-13T06:26:15Z",
+   "url": "https://github.com/BerriAI/litellm",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "GokuMohandas/Made-With-ML",
+   "stars": 50005,
+   "desc": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+   "pushed_at": "2026-03-04T23:44:21Z",
+   "url": "https://github.com/GokuMohandas/Made-With-ML",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "langfuse/langfuse",
+   "stars": 37372,
+   "desc": "🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every ag",
+   "pushed_at": "2026-11-13T06:25:56Z",
+   "url": "https://github.com/langfuse/langfuse",
+   "license": "NOASSERTION",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "ComposioHQ/composio",
+   "stars": 31054,
+   "desc": "Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.",
+   "pushed_at": "2026-11-13T05:53:25Z",
+   "url": "https://github.com/ComposioHQ/composio",
+   "license": "MIT",
+   "default_branch": "next"
+  },
+  {
+   "full_name": "mlflow/mlflow",
+   "stars": 28789,
+   "desc": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applicati",
+   "pushed_at": "2026-11-13T06:12:00Z",
+   "url": "https://github.com/mlflow/mlflow",
+   "license": "Apache-2.0",
+   "default_branch": "master"
+  },
+  {
+   "full_name": "promptfoo/promptfoo",
+   "stars": 27121,
+   "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative config",
+   "pushed_at": "2026-11-13T00:50:54Z",
+   "url": "https://github.com/promptfoo/promptfoo",
+   "license": "MIT",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "liguodongiot/llm-action",
+   "stars": 25276,
+   "desc": "本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）",
+   "pushed_at": "2026-10-14T14:28:31Z",
+   "url": "https://github.com/liguodongiot/llm-action",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  },
+  {
+   "full_name": "comet-ml/opik",
+   "stars": 23375,
+   "desc": "Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.",
+   "pushed_at": "2026-11-13T05:14:06Z",
+   "url": "https://github.com/comet-ml/opik",
+   "license": "Apache-2.0",
+   "default_branch": "main"
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>AI 产品经理培训中文知识库｜8 周 40 讲</title>
+<style>
+:root{
+  --purple:#7C3AED; --blue:#2563EB; --bg:#F6F7FC; --surface:#FFFFFF;
+  --text:#202535; --muted:#5B6478; --border:#E6E8F2; --soft:#F3EEFF; --soft2:#EEF3FF;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",Roboto,sans-serif;font-size:15px;line-height:1.75}
+.app{display:flex;min-height:100vh}
+.sidebar{width:302px;position:fixed;inset:0 auto 0 0;height:100vh;overflow-y:auto;background:var(--surface);border-right:1px solid var(--border);z-index:30;padding:18px 12px 70px;scrollbar-width:thin}
+.sidebar::-webkit-scrollbar{width:6px}.sidebar::-webkit-scrollbar-thumb{background:#D9DDEC;border-radius:6px}
+.brand{display:flex;gap:11px;align-items:center;padding:8px 10px 18px;border-bottom:1px solid var(--border);margin-bottom:12px}
+.brand-mark{width:40px;height:40px;flex:none;border-radius:12px;background:linear-gradient(135deg,var(--purple),var(--blue));color:#fff;font-weight:800;font-size:15px;display:flex;align-items:center;justify-content:center;letter-spacing:.5px}
+.brand-title{font-weight:750;font-size:14.5px;line-height:1.35}
+.brand-sub{font-size:11.5px;color:var(--muted);margin-top:2px}
+.nav-group{margin-bottom:8px}
+.nav-doc{display:flex;align-items:center;gap:7px;padding:7px 10px;border-radius:9px;color:var(--text);text-decoration:none;font-size:13.5px;font-weight:650;line-height:1.4}
+.nav-doc:hover{background:var(--soft)}
+.nav-tag{flex:none;font-size:10.5px;color:var(--purple);background:var(--soft);border-radius:5px;padding:1px 5px;font-weight:700}
+.nav-lessons{margin:2px 0 6px 16px;border-left:1px solid var(--border);padding-left:8px}
+.nav-lesson{display:block;font-size:12.2px;color:var(--muted);text-decoration:none;padding:3px 7px;border-radius:6px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nav-lesson:hover{color:var(--purple);background:var(--soft)}
+.side-foot{position:absolute;bottom:0;left:0;right:0;padding:10px 18px;font-size:11px;color:var(--muted);background:var(--surface);border-top:1px solid var(--border)}
+.overlay{display:none;position:fixed;inset:0;background:rgba(20,24,40,.38);z-index:25}
+.overlay.show{display:block}
+.main{margin-left:302px;width:calc(100% - 302px);min-width:0}
+.topbar{position:sticky;top:0;z-index:20;background:linear-gradient(100deg,var(--purple),var(--blue));color:#fff;display:flex;align-items:center;gap:14px;padding:11px 22px;flex-wrap:wrap;box-shadow:0 4px 18px rgba(80,60,180,.18)}
+.top-title{font-weight:700;font-size:14px;white-space:nowrap}
+.menu-btn{display:none;background:rgba(255,255,255,.18);border:0;color:#fff;font-size:18px;border-radius:8px;width:36px;height:34px;cursor:pointer}
+.search-wrap{flex:1;min-width:180px}
+#search{width:100%;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.94);color:#202535;border-radius:9px;padding:8px 13px;font-size:13.5px;outline:none}
+#search:focus{box-shadow:0 0 0 3px rgba(255,255,255,.35)}
+.progress-wrap{display:flex;align-items:center;gap:8px;font-size:12px;white-space:nowrap}
+.progress{width:88px;height:7px;border-radius:6px;background:rgba(255,255,255,.3);overflow:hidden}
+.bar{height:100%;width:0;background:#fff;border-radius:6px;transition:width .25s}
+.print-btn{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.4);color:#fff;border-radius:8px;padding:6px 12px;font-size:12.5px;cursor:pointer}
+.print-btn:hover{background:rgba(255,255,255,.28)}
+.results{display:none;position:fixed;top:60px;right:24px;width:min(540px,calc(100vw - 40px));max-height:72vh;overflow-y:auto;background:var(--surface);border:1px solid var(--border);border-radius:14px;box-shadow:0 18px 48px rgba(30,35,70,.18);z-index:40;padding:8px}
+.result{display:block;text-decoration:none;color:var(--text);padding:9px 11px;border-radius:9px;border-bottom:1px solid #F0F1F7}
+.result:last-child{border-bottom:0}
+.result:hover{background:var(--soft)}
+.result b{display:block;font-size:13px;color:var(--purple);margin-bottom:3px}
+.result span{display:block;font-size:12px;color:var(--muted);line-height:1.55}
+.no-result{padding:16px;font-size:13px;color:var(--muted)}
+mark{background:#FDE68A;color:#3A2C00;padding:0 2px;border-radius:2px}
+.content{max-width:1000px;margin:0 auto;padding:26px 28px 90px}
+.doc{background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:26px 32px 34px;margin-bottom:26px;box-shadow:0 6px 24px rgba(40,45,90,.05)}
+.doc h1{font-size:24px;line-height:1.4;color:#4C1D95;margin:0 0 18px;padding-bottom:12px;border-bottom:2px solid var(--soft)}
+.doc h2{font-size:19px;line-height:1.5;margin:30px 0 12px;padding:9px 12px;border-left:4px solid var(--purple);border-radius:0 9px 9px 0;cursor:pointer;display:flex;align-items:center;gap:9px}
+.doc h2:hover{background:#FAF8FF}
+.doc h2.lesson{background:linear-gradient(90deg,var(--soft),rgba(255,255,255,0))}
+.doc h2.collapsed{opacity:.72}
+.doc h3{font-size:16px;color:var(--blue);margin:22px 0 8px;line-height:1.5}
+.doc p{margin:9px 0}
+.doc ul,.doc ol{padding-left:22px;margin:9px 0}
+.doc li{margin:4px 0}
+.doc a{color:var(--blue);text-decoration:none;border-bottom:1px solid rgba(37,99,235,.3)}
+.doc a:hover{border-bottom-color:var(--blue)}
+.doc strong{color:#3B2B6B}
+.doc hr{border:0;border-top:1px solid var(--border);margin:22px 0}
+.table-wrap{overflow-x:auto;margin:13px 0 18px;-webkit-overflow-scrolling:touch}
+.doc table{border-collapse:collapse;width:100%;font-size:13.4px;min-width:560px}
+.doc th,.doc td{border:1px solid var(--border);padding:8px 10px;text-align:left;vertical-align:top;line-height:1.6}
+.doc th{background:var(--soft);color:#3B2B6B;font-weight:700;white-space:nowrap}
+.doc tr:nth-child(even) td{background:#FAFBFF}
+.doc pre{background:#F5F6FB;border:1px solid var(--border);border-radius:10px;padding:14px;overflow-x:auto;font-size:12.8px;line-height:1.65;color:#2B3040}
+.doc :not(pre)>code{background:var(--soft);color:#5B21B6;padding:1px 5px;border-radius:5px;font-size:12.8px}
+.doc blockquote{margin:12px 0;padding:10px 14px;background:#F8F5FF;border-left:4px solid var(--purple);border-radius:0 9px 9px 0;color:#463566}
+.doc blockquote p{margin:4px 0}
+.lesson-check{width:16px;height:16px;flex:none;accent-color:var(--purple);cursor:pointer}
+.hidden-block{display:none!important}
+.footer{max-width:1000px;margin:0 auto;padding:0 28px 40px;color:var(--muted);font-size:12px;text-align:center}
+@media (max-width:900px){
+  .sidebar{transform:translateX(-100%);transition:transform .22s;width:min(320px,86vw);box-shadow:8px 0 32px rgba(20,25,60,.16)}
+  .sidebar.open{transform:translateX(0)}
+  .main{margin-left:0;width:100%}
+  .menu-btn{display:block}
+  .topbar{padding:9px 13px;gap:9px}
+  .top-title{font-size:13px;flex:1}
+  .search-wrap{order:5;flex-basis:100%}
+  .progress-wrap{font-size:11px}
+  .progress{width:60px}
+  .print-btn{display:none}
+  .results{top:106px;right:12px;width:calc(100vw - 24px);max-height:66vh}
+  .content{padding:14px 12px 70px}
+  .doc{padding:18px 16px 24px;border-radius:13px;margin-bottom:16px}
+  .doc h1{font-size:20px}
+  .doc h2{font-size:17px;margin:24px 0 10px;padding:8px 9px}
+  .doc h3{font-size:15px}
+  .doc table{font-size:12.4px}
+  body{font-size:14.5px}
+  .footer{padding:0 14px 28px}
+}
+@media print{
+  .sidebar,.overlay,.topbar,.results,.footer{display:none!important}
+  .main{margin-left:0;width:100%}
+  .content{max-width:none;padding:0}
+  .doc{box-shadow:none;border:0;border-radius:0;padding:0 0 18px;margin:0}
+  .hidden-block{display:block!important}
+  .doc h2,.doc h3,.doc table,.doc pre,.doc blockquote{break-inside:avoid}
+  .doc a{color:var(--blue);border:0}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar" id="sidebar">
+    <div class="brand">
+      <div class="brand-mark">AI</div>
+      <div><div class="brand-title">AI 产品经理培训知识库</div><div class="brand-sub">8 周 · 40 讲 · 42 个校验资源</div></div>
+    </div>
+    <nav class="nav" id="nav">__NAV__</nav>
+    <div class="side-foot">v1.0 ｜ 校验日 2026-11-13 ｜ 大纲零改动</div>
+  </aside>
+  <div class="overlay" id="overlay"></div>
+  <main class="main">
+    <header class="topbar">
+      <button class="menu-btn" id="menuBtn" aria-label="打开目录">☰</button>
+      <div class="top-title">中文知识库 · 课堂讲授与课后查阅</div>
+      <div class="search-wrap"><input id="search" type="search" placeholder="搜索概念、术语、讲次、资源…" autocomplete="off"></div>
+      <div class="progress-wrap"><div class="progress"><div class="bar" id="bar"></div></div><span id="progressText">已读 0/__LESSON_COUNT__</span></div>
+      <button class="print-btn" id="printBtn">打印</button>
+    </header>
+    <div id="results" class="results"></div>
+    <article id="content" class="content">__SECTIONS__</article>
+    <div class="footer">AI 产品经理培训中文知识库 v1.0 ｜ 项目数据校验于 2026-11-13 ｜ 法规以官方最新发布为准 ｜ 引用资源版权归原作者</div>
+  </main>
+</div>
+<script>
+(function(){
+  var $=function(s){return document.querySelector(s);};
+  var sidebar=$('#sidebar'),overlay=$('#overlay'),results=$('#results');
+  $('#menuBtn').addEventListener('click',function(){sidebar.classList.toggle('open');overlay.classList.toggle('show');});
+  overlay.addEventListener('click',function(){sidebar.classList.remove('open');overlay.classList.remove('show');});
+  $('#printBtn').addEventListener('click',function(){window.print();});
+
+  var KEY='aipm_kb_progress_v1',done={};
+  try{done=JSON.parse(localStorage.getItem(KEY)||'{}')||{};}catch(e){done={};}
+  var checks=[].slice.call(document.querySelectorAll('.lesson-check'));
+  function sync(){
+    var n=0;
+    checks.forEach(function(c){c.checked=!!done[c.getAttribute('data-key')];if(c.checked)n++;});
+    $('#progressText').textContent='已读 '+n+'/'+checks.length;
+    $('#bar').style.width=(checks.length?n/checks.length*100:0)+'%';
+    try{localStorage.setItem(KEY,JSON.stringify(done));}catch(e){}
+  }
+  checks.forEach(function(c){c.addEventListener('click',function(e){
+    e.stopPropagation();
+    var k=c.getAttribute('data-key');
+    if(c.checked)done[k]=1;else delete done[k];
+    sync();
+  });});
+  sync();
+
+  var heads=[].slice.call(document.querySelectorAll('#content h2'));
+  heads.forEach(function(h){
+    h.addEventListener('click',function(){
+      var collapsed=!h.classList.contains('collapsed');
+      h.classList.toggle('collapsed',collapsed);
+      var el=h.nextElementSibling;
+      while(el&&el.tagName!=='H2'&&el.tagName!=='H1'){
+        if(collapsed)el.classList.add('hidden-block');else el.classList.remove('hidden-block');
+        el=el.nextElementSibling;
+      }
+    });
+  });
+  function blocks(){
+    return heads.map(function(h){
+      var parts=[h.textContent||''],el=h.nextElementSibling;
+      while(el&&el.tagName!=='H2'&&el.tagName!=='H1'){parts.push(el.textContent||'');el=el.nextElementSibling;}
+      return {id:h.id,title:(h.textContent||'').replace(/\s+/g,' ').trim(),text:parts.join(' ').replace(/\s+/g,' ')};
+    });
+  }
+  var allBlocks=blocks();
+  function esc(s){return s.replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  var input=$('#search'),timer;
+  input.addEventListener('input',function(){
+    clearTimeout(timer);
+    timer=setTimeout(function(){
+      var q=input.value.trim();
+      if(!q){results.style.display='none';results.innerHTML='';return;}
+      var kw=q.toLowerCase(),hits=allBlocks.filter(function(b){return b.text.toLowerCase().indexOf(kw)>=0;}).slice(0,20);
+      if(!hits.length){results.innerHTML='<div class="no-result">没有找到「'+esc(q)+'」，换个关键词试试</div>';results.style.display='block';return;}
+      var safe=q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+      results.innerHTML=hits.map(function(b){
+        var p=b.text.toLowerCase().indexOf(kw),start=Math.max(0,p-45),snip=b.text.slice(start,start+150);
+        var shown=esc(snip).replace(new RegExp(safe,'ig'),function(m){return '<mark>'+m+'</mark>';});
+        return '<a class="result" href="#'+b.id+'" data-id="'+b.id+'"><b>'+esc(b.title)+'</b><span>'+shown+'…</span></a>';
+      }).join('');
+      results.style.display='block';
+    },180);
+  });
+  results.addEventListener('click',function(e){
+    var a=e.target.closest?e.target.closest('a.result'):null;
+    if(!a)return;
+    e.preventDefault();
+    var t=document.getElementById(a.getAttribute('data-id'));
+    if(t){
+      t.classList.remove('collapsed');
+      var el=t.nextElementSibling;
+      while(el&&el.tagName!=='H2'&&el.tagName!=='H1'){el.classList.remove('hidden-block');el=el.nextElementSibling;}
+      t.scrollIntoView({behavior:'smooth',block:'start'});
+    }
+    results.style.display='none';sidebar.classList.remove('open');overlay.classList.remove('show');
+  });
+  document.addEventListener('keydown',function(e){if(e.key==='Escape'){results.style.display='none';sidebar.classList.remove('open');overlay.classList.remove('show');}});
+})();
+</script>
+</body>
+</html>
